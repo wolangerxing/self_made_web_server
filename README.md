@@ -10,3 +10,7 @@
     python3 test.py
     python3 server.py
     ``` 
+
+效果：
+
+![demo](demo.gif)
